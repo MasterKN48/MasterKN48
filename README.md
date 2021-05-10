@@ -2,6 +2,6 @@
 
 ### Hi
 I am MERN Stack Developer :technologist: from India :india: . <br/>
-Actively Looking for remote work.<br/>
+Open to freelance for web project.<br/>
 For more information about me, check out [https://masterkn.xyz](https://masterkn.xyz)
 

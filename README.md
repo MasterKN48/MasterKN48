@@ -3,5 +3,5 @@
 ### Hi
 I am Full Stack Developer :technologist: from India :india: . <br/>
 Open to freelance for web project.<br/>
-For more information about me, check out [https://masterkn.xyz](https://masterkn.xyz)
+For more information about me, check out [Linkedin](https://in.linkedin.com/in/hellomaster)
 

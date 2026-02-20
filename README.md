@@ -108,11 +108,14 @@ I specialize in transforming complex business requirements into high-performance
 
 ---
 
-### 📊 Vital Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MasterKN48&show_icons=true&theme=algolia&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterKN48&layout=compact&theme=algolia&hide=html,css" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MasterKN48&show_icons=true&theme=tokyonight&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterKN48&layout=compact&theme=tokyonight&hide=html,css" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MasterKN48&theme=tokyonight" />
 </div>
 
 ---

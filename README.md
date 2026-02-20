@@ -32,7 +32,7 @@ I specialize in transforming complex business requirements into high-performance
       <ul>
         <li><b>Frameworks:</b> LangChain, LangGraph, FastMCP, WebMCP</li>
         <li><b>Inference:</b> vLLM, Ollama (Local LLM Deployment)</li>
-        <li><b>Apps:</b> Streamlit, LangSmith (Observability)</li>
+        <li><b>Apps:</b> Streamlit, LangSmith, Opik (Observability)</li>
         <li><b>On-Device:</b> Transformers.js, Onnxruntime, liteRT.js, WebLLM</li>
       </ul>
     </td>

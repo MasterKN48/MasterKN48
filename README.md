@@ -13,11 +13,12 @@
 ---
 
 ### 🌟 Executive Summary
-I specialize in transforming complex business requirements into high-performance technical architectures. Whether it's optimizing **Core Web Vitals** for a **300% performance boost**, architecting **Microservices** on AWS, or leading teams to ship secure **OWASP-compliant** applications, I focus on engineering excellence and scalability.
+I specialize in transforming complex business requirements into high-performance technical architectures. Whether it's optimizing **Core Web Vitals** for a **300% performance boost**, architecting **Service oriented Architecture** on AWS, or leading teams to ship micro frontend applications for enterprise-scale or building efficient scalable backend services, I focus on engineering excellence and scalability. 
 
-- 🏗️ **Architecture**: Expert in System Design, Microservices, and Service-Oriented Design (SOD).
-- ⚡ **Performance**: Proven track record of drastic optimization in Core Web Vitals and LCP/FID metrics.
-- 🛡️ **Security**: Deep knowledge of Application Security (OWASP Top 10) and secure SDLC.
+- 🏗️ **Architecture**: Expert in Micro-frontends, Microservices, and Service-Oriented Design (SOD).
+- 🎨 **Frontend Excellence**: Huge expertise in modern React/Next.js ecosystems, CSS-in-JS, and sophisticated state management (Redux/Zustand). Proven track record of drastic optimization in Core Web Vitals and LCP/FID metrics.
+- ⚡ **Performance Specialist**: Deep expertise in full-stack optimization—from **Frontend** (LCP/FID optimization, code-splitting) to **Backend** (DB indexing, Redis caching, and scaling high-throughput APIs).
+- 🛡️ **Security & DevOps**: Basic knowledge of Application Security (OWASP Top 10) and building scalable infrastructure on AWS with CI/CD.
 - 👥 **Leadership**: Experienced in mentoring juniors, leading agile teams, and building design systems from scratch.
 
 ---
@@ -32,13 +33,13 @@ I specialize in transforming complex business requirements into high-performance
         <li><b>Frameworks:</b> LangChain, LangGraph, FastMCP, WebMCP</li>
         <li><b>Inference:</b> vLLM, Ollama (Local LLM Deployment)</li>
         <li><b>Apps:</b> Streamlit, LangSmith (Observability)</li>
-        <li><b>On-Device:</b> Transformers.js, WebGPU integration</li>
+        <li><b>On-Device:</b> Transformers.js, Onnxruntime, liteRT.js, WebLLM</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>💻 Full Stack Engineering</h4>
       <ul>
-        <li><b>Backend:</b> Nest.js, Node.js, FastAPI, GraphQL, WebSockets</li>
+        <li><b>Backend:</b> Express.js, Nest.js, Node.js, FastAPI, GraphQL</li>
         <li><b>Frontend:</b> Next.js, React, Redux, Zustand, SASS/CSS3</li>
         <li><b>CMS:</b> Strapi (Headless), Custom CMS Development</li>
         <li><b>Real-time:</b> WebRTC (P2P Video/Data), Socket.io</li>
@@ -49,10 +50,10 @@ I specialize in transforming complex business requirements into high-performance
     <td width="50%" valign="top">
       <h4>☁️ DevOps & Cloud</h4>
       <ul>
-        <li><b>Infrastructure:</b> AWS (EC2, Autoscaling, S3, RDS)</li>
+        <li><b>Infrastructure:</b> AWS (EC2, Autoscaling, S3, RDS, ...etc), Terraform</li>
         <li><b>CI/CD:</b> GitLab CI/CD pipelines, GitHub Actions</li>
-        <li><b>Databases:</b> PostgreSQL, MongoDB, Redis, PGVector</li>
-        <li><b>Linux:</b> Shell Scripting, Server Hardening</li>
+        <li><b>Databases:</b> PostgreSQL, MongoDB, Redis</li>
+        <li><b>Linux:</b> Shell Scripting, Dockers, Kubernetes Basics</li>
       </ul>
     </td>
     <td width="50%" valign="top">

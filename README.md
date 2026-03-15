@@ -78,7 +78,7 @@ I specialize in transforming complex business requirements into high-performance
 - Optimized for Apple Silicon with MLX-Audio, achieving sub-2s latency for English-Hindi translation with zero-shot voice cloning.
 - Tech: LangGraph, MLX-Audio, Whisper, Qwen, Streamlit.
 
-#### [webrtc_video_chat](https://github.com/MasterKN48/webrtc_video_chat)
+#### [WebRTC Video Chat](https://github.com/MasterKN48/webrtc_video_chat)
 *Real-time Synchronization & WebRTC*
 - Built a P2P video chat platform with a unique **Synchronized YouTube Player**.
 - Solved complex state synchronization challenges for real-time collaborative watching.

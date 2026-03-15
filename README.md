@@ -72,6 +72,12 @@ I specialize in transforming complex business requirements into high-performance
 
 ### 🚀 Featured Engineering Work
 
+#### [Let's Talk AI Voice Agent](https://github.com/MasterKN48/letsTalkVoiceAgent)
+*Local-First AI Voice Translation with voice cloning*
+- Engineered a high-performance, real-time voice translation agent using LangGraph for complex stateful workflows.
+- Optimized for Apple Silicon with MLX-Audio, achieving sub-2s latency for English-Hindi translation with zero-shot voice cloning.
+- Tech: LangGraph, MLX-Audio, Whisper, Qwen, Streamlit.
+
 #### [webrtc_video_chat](https://github.com/MasterKN48/webrtc_video_chat)
 *Real-time Synchronization & WebRTC*
 - Built a P2P video chat platform with a unique **Synchronized YouTube Player**.

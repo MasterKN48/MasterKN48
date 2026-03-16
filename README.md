@@ -72,11 +72,19 @@ I specialize in transforming complex business requirements into high-performance
 
 ### 🚀 Featured Engineering Work
 
+#### [Let's Talk Web Agent](https://github.com/MasterKN48/letsTalkWebAgent)
+*Let'sTalk.live — A real-time, privacy-first AI voice translation agent that runs 100% locally in your browser. Features on-device STT, LLM translation, & Voice Synthesis with zero backend servers required.*
+- Tech: Transformer.js, WebGPU, runanywhereSDK,onnxrunttime-web.
+
 #### [Let's Talk AI Voice Agent](https://github.com/MasterKN48/letsTalkVoiceAgent)
 *Local-First AI Voice Translation with voice cloning*
 - Engineered a high-performance, real-time voice translation agent using LangGraph for complex stateful workflows.
 - Optimized for Apple Silicon with MLX-Audio, achieving sub-2s latency for English-Hindi translation with zero-shot voice cloning.
 - Tech: LangGraph, MLX-Audio, Whisper, Qwen, Streamlit.
+
+#### [PageAgent LocalAI](https://github.com/MasterKN48/pageAgentLocalAI)
+*🚀 Privacy-first browser AI. Powers the Alibaba Page Agent chatbot using local FunctionGemma models via WebGPU. Fast, secure, and zero-data-leakage on every tab.*
+- Tech: Transformer.js, WebGPU, onnxrunttime-web, Alibaba Page-Agent.
 
 #### [WebRTC Video Chat](https://github.com/MasterKN48/webrtc_video_chat)
 *Real-time Synchronization & WebRTC*

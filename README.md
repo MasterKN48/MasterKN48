@@ -74,13 +74,13 @@ I specialize in transforming complex business requirements into high-performance
 
 ### [Lets Talk Meeting App](https://github.com/MasterKN48/letsTalkMeetingApp)
 Mediasoup Meeting App (Monorepo): A high-performance, secure, and modern WebRTC application built with **Mediasoup (SFU)**, **Bun**, and **Next.js 16**.
-FU Architecture: Leverages Mediasoup for high-bandwidth, multi-user media routing instead of resource-intensive Mesh/P2P.
-Low Latency: Sub-250ms latency for global video/audio streaming.
-Security First: JWT-authenticated signaling and Mediasoup DTLS/SRTP protection.
-Modern UI/UX: Next.js 16 powered with View Transitions API and Partial Prerendering (PPR).
-Type Safety: End-to-end TypeScript with Zod-OpenAPI for self-documenting APIs.
-High-Fidelity Media: Support for 1080p60 streaming with adaptive simulcast layers (HD, SD, Low) for optimal performance.
-Scalable Infrastructure: Containerized with Docker and ready for Kubernetes.
+- SFU Architecture: Leverages Mediasoup for high-bandwidth, multi-user media routing instead of resource-intensive Mesh/P2P.
+- Low Latency: Sub-100ms latency for global video/audio streaming.
+- Security First: JWT-authenticated signaling and Mediasoup DTLS/SRTP protection.
+- Modern UI/UX: Next.js 16 powered with View Transitions API and Partial Prerendering (PPR).
+- Type Safety: End-to-end TypeScript with Zod-OpenAPI for self-documenting APIs.
+- High-Fidelity Media: Support for 1080p60 streaming with adaptive simulcast layers (HD, SD, Low) for optimal performance.
+- Scalable Infrastructure: Containerized with Docker and ready for Kubernetes.
 
 #### [Let's Talk Web Agent](https://github.com/MasterKN48/letsTalkWebAgent)
 *Let'sTalk.live — A real-time, privacy-first AI voice translation agent that runs 100% locally in your browser. Features on-device STT, LLM translation, & Voice Synthesis with zero backend servers required.*

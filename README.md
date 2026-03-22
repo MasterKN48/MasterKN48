@@ -72,6 +72,9 @@ I specialize in transforming complex business requirements into high-performance
 
 ### 🚀 Featured Engineering Work
 
+### [Lets Talk Meeting App](https://github.com/MasterKN48/letsTalkMeetingApp)
+Mediasoup Meeting App (Monorepo): A high-performance, secure, and modern WebRTC application built with **Mediasoup (SFU)**, **Bun**, and **Next.js 16**.
+
 #### [Let's Talk Web Agent](https://github.com/MasterKN48/letsTalkWebAgent)
 *Let'sTalk.live — A real-time, privacy-first AI voice translation agent that runs 100% locally in your browser. Features on-device STT, LLM translation, & Voice Synthesis with zero backend servers required.*
 - Tech: Transformer.js, WebGPU, runanywhereSDK, onnxruntime-web, Huggingface models.

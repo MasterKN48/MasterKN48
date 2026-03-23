@@ -82,6 +82,15 @@ Mediasoup Meeting App (Monorepo): A high-performance, secure, and modern WebRTC 
 - High-Fidelity Media: Support for 1080p60 streaming with adaptive simulcast layers (HD, SD, Low) for optimal performance.
 - Scalable Infrastructure: Containerized with Docker and ready for Kubernetes.
 
+### [Let's Solve Captcha](https://github.com/MasterKN48/Let-s-Solve-Captcha)
+🚀 A private, local-first ReCAPTCHA solver using Transformers.js and Whisper ASR. Feature-rich with intelligent automation and Chrome Side Panel integration.
+- Local ASR: Uses Transformers.js v4 and the Xenova/whisper-tiny model to transcribe audio challenges locally.
+- Privacy First: No audio data is uploaded to any backend. Everything happens in an offscreen document on your machine.
+- Side Panel Experience: Click the extension icon to manage settings and monitor model progress in a convenient sidebar.
+- Intelligent Automation: Automatically switches to audio mode once the solver button and challenge are visible.
+- WebGPU Acceleration: Blazing fast transcription using WebGPU (fp16/f32) or WASM fallback.
+- Modern Stack: Built with React, Vite, Bun, and Transformers.js v4.
+
 #### [Let's Talk Web Agent](https://github.com/MasterKN48/letsTalkWebAgent)
 *Let'sTalk.live — A real-time, privacy-first AI voice translation agent that runs 100% locally in your browser. Features on-device STT, LLM translation, & Voice Synthesis with zero backend servers required.*
 - Tech: Transformer.js, WebGPU, runanywhereSDK, onnxruntime-web, Huggingface models.

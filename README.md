@@ -72,6 +72,9 @@ I specialize in transforming complex business requirements into high-performance
 
 ### 🚀 Featured Engineering Work
 
+### [Resume Builder PWA](https://github.com/MasterKN48/resumeBuilderPWA)
+  A professional, highly customizable, and offline-capable interactive AI pocket resume builder. Features a live preview, drag-and-drop layout system, migrate from any existing resume, ask local ai to edit or your improve resume and flawless PDF export capabilities, complete offline capbility, instant complete privacy of data. Built with **Preact**, **Vite**, and **PWA** technologies.
+
 ### [Lets Talk Meeting App](https://github.com/MasterKN48/letsTalkMeetingApp)
 Mediasoup Meeting App (Monorepo): A high-performance, secure, and modern WebRTC application built with **Mediasoup (SFU)**, **Bun**, and **Next.js 16**.
 - SFU Architecture: Leverages Mediasoup for high-bandwidth, multi-user media routing instead of resource-intensive Mesh/P2P.
@@ -91,44 +94,44 @@ Mediasoup Meeting App (Monorepo): A high-performance, secure, and modern WebRTC 
 - WebGPU Acceleration: Blazing fast transcription using WebGPU (fp16/f32) or WASM fallback.
 - Modern Stack: Built with React, Vite, Bun, and Transformers.js v4.
 
-#### [Let's Talk Web Agent](https://github.com/MasterKN48/letsTalkWebAgent)
+### [Let's Talk Web Agent](https://github.com/MasterKN48/letsTalkWebAgent)
 *Let'sTalk.live — A real-time, privacy-first AI voice translation agent that runs 100% locally in your browser. Features on-device STT, LLM translation, & Voice Synthesis with zero backend servers required.*
 - Tech: Transformer.js, WebGPU, runanywhereSDK, onnxruntime-web, Huggingface models.
 
-#### [Let's Talk AI Voice Agent](https://github.com/MasterKN48/letsTalkVoiceAgent)
+### [Let's Talk AI Voice Agent](https://github.com/MasterKN48/letsTalkVoiceAgent)
 *Local-First AI Voice Translation with voice cloning*
 - Engineered a high-performance, real-time voice translation agent using LangGraph for complex stateful workflows.
 - Optimized for Apple Silicon with MLX-Audio, achieving sub-2s latency for English-Hindi translation with zero-shot voice cloning.
 - Tech: LangGraph, MLX-Audio, Whisper, Qwen, Streamlit, Huggingface models
 
-#### [PageAgent LocalAI](https://github.com/MasterKN48/pageAgentLocalAI)
+### [PageAgent LocalAI](https://github.com/MasterKN48/pageAgentLocalAI)
 *🚀 Privacy-first browser AI. Powers the Alibaba Page Agent chatbot using local FunctionGemma models via WebGPU. Fast, secure, and zero-data-leakage on every tab.*
 - Tech: Transformer.js, WebGPU, onnxruntime-web, Alibaba Page-Agent, Huggingface models.
 
-#### [WebRTC Video Chat](https://github.com/MasterKN48/webrtc_video_chat)
+### [WebRTC Video Chat](https://github.com/MasterKN48/webrtc_video_chat)
 *Real-time Synchronization & WebRTC*
 - Built a P2P video chat platform with a unique **Synchronized YouTube Player**.
 - Solved complex state synchronization challenges for real-time collaborative watching.
 - **Tech:** WebRTC, Socket.io, PeerJS, React.
 
-#### [AIO (All-In-One)](https://github.com/MasterKN48/aio)
+### [AIO (All-In-One)](https://github.com/MasterKN48/aio)
 *Privacy-First Browser Computing*
 - Developed a client-side file converter (Images, Audio, PDF) using **FFmpeg.js**.
 - Utilized **Web Workers** for non-blocking UI during heavy processing.
 - Zero server-side footprint, ensuring 100% data privacy.
 
-#### [Explore-iT](https://github.com/MasterKN48/Explore-iT)
+### [Explore-iT](https://github.com/MasterKN48/Explore-iT)
 *Geo-Location Microblogging*
 - A location-aware PWA using **GraphQL** and Apollo for efficient data fetching.
 - Implemented real-time mapping interfaces for localized content discovery.
 - **Tech:** GraphQL, React, MongoDB, Cloudinary.
 
-#### [ReadWrite](https://github.com/MasterKN48/ReadWrite)
+### [ReadWrite](https://github.com/MasterKN48/ReadWrite)
 *Advanced CMS & Social Engine*
 - Scalable MERN stack blogging platform with complex social features (Follows, Likes, Threaded Comments).
 - Includes a comprehensive **Admin Dashboard** for content moderation and analytics.
 
-#### [Quick-Lipsum](https://github.com/MasterKN48/quick-lipsum)
+### [Quick-Lipsum](https://github.com/MasterKN48/quick-lipsum)
 *High-Performance Utility*
 - A hyper-fast developer tool built with **Preact** for immediate placeholder generation with a minimal 3KB footprint.
 

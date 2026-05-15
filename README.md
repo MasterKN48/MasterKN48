@@ -2,7 +2,7 @@
   <img src="https://images.unsplash.com/photo-1535551951406-a19828b0a76b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=200&q=80" />
   
   <h3>Senior Full Stack Engineer | AI Agent Architect | Team Lead 🚀</h3>
-  <p><b>5+ Years of Experience</b> building high-performance, secure, and scalable distributed systems.</p>
+  <p><b>6+ Years of Experience</b> building high-performance, secure, and scalable distributed systems.</p>
 
   <p>
     <a href="https://linkedin.com/in/hellomaster"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

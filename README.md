@@ -73,7 +73,7 @@ I specialize in transforming complex business requirements into high-performance
 ### 🚀 Featured Engineering Work
 
 ### [Resume Builder PWA](https://github.com/MasterKN48/resumeBuilderPWA)
-  A professional, highly customizable, and offline-capable interactive AI pocket resume builder. Features a live preview, drag-and-drop layout system, migrate from any existing resume, ask local ai to edit or your improve resume and flawless PDF export capabilities, complete offline capbility, instant complete privacy of data. Built with **Preact**, **Vite**, and **PWA** technologies.
+A professional, highly customizable, and offline-capable interactive AI pocket resume builder. Features a live preview, drag-and-drop layout system, migrate from any existing resume, ask local ai to edit or your improve resume and flawless PDF export capabilities, complete offline capbility, instant complete privacy of data. Built with **Preact**, **Vite**, and **PWA** technologies.
 
 ### [Lets Talk Meeting App](https://github.com/MasterKN48/letsTalkMeetingApp)
 Mediasoup Meeting App (Monorepo): A high-performance, secure, and modern WebRTC application built with **Mediasoup (SFU)**, **Bun**, and **Next.js 16**.
@@ -97,6 +97,13 @@ Mediasoup Meeting App (Monorepo): A high-performance, secure, and modern WebRTC 
 ### [Let's Talk Web Agent](https://github.com/MasterKN48/letsTalkWebAgent)
 *Let'sTalk.live — A real-time, privacy-first AI voice translation agent that runs 100% locally in your browser. Features on-device STT, LLM translation, & Voice Synthesis with zero backend servers required.*
 - Tech: Transformer.js, WebGPU, runanywhereSDK, onnxruntime-web, Huggingface models.
+
+### [WatchYouTubeInOffice](https://github.com/MasterKN48/WatchYouTubeInOffice)
+About
+Watch YouTube In Office (MS Teams Stealth Disguise): An interactive Chrome Extension built with Preact, Vite, Tailwind CSS, and Bun that transforms your YouTube video page into a high-fidelity Microsoft Teams meeting interface. Work hard, play hard, watch stealthily.
+
+### [ProfilePicGenerator](https://masterkn48.github.io/profilePicGenerator/)
+A client-side, AI-powered Profile Picture Generator and Indian Passport Photo Maker. Centers faces automatically with TensorFlow.js, offers adjustable rounding, custom date overlays, and real-time WebP compression. 100% private, no server uploads.
 
 ### [Let's Talk AI Voice Agent](https://github.com/MasterKN48/letsTalkVoiceAgent)
 *Local-First AI Voice Translation with voice cloning*

@@ -72,6 +72,9 @@ I specialize in transforming complex business requirements into high-performance
 
 ### 🚀 Featured Engineering Work
 
+### [GlideMediaGallary](https://github.com/MasterKN48/glideMediaGallary)
+Ultra-fast, lightweight portable media gallery for local and external storage (SSD,HDD) cross platform (windows,macos,linux). Built with Tauri, Svelte 5, and Rust. Features parallel SSD scanning, EXIF extraction, custom grid virtualization, and a glassmorphic viewer with metadata panels. Engineered using a high-performance native Rust/Tauri backend and a reactive Svelte 5 SPA frontend.
+
 ### [Resume Builder PWA](https://github.com/MasterKN48/resumeBuilderPWA)
 A professional, highly customizable, and offline-capable interactive AI pocket resume builder. Features a live preview, drag-and-drop layout system, migrate from any existing resume, ask local ai to edit or your improve resume and flawless PDF export capabilities, complete offline capbility, instant complete privacy of data. Built with **Preact**, **Vite**, and **PWA** technologies.
 
